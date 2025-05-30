@@ -1,0 +1,17 @@
+C:\work\文章管理系统\src\main\java\com\example\article\service\ArticleService.java
+C:\work\文章管理系统\src\main\java\com\example\article\ArticleManagementApplication.java
+C:\work\文章管理系统\src\main\java\com\example\article\entity\Article.java
+C:\work\文章管理系统\src\main\java\com\example\article\service\CategoryService.java
+C:\work\文章管理系统\src\main\java\com\example\article\config\AppProperties.java
+C:\work\文章管理系统\src\main\java\com\example\article\dto\ArticleDTO.java
+C:\work\文章管理系统\src\main\java\com\example\article\entity\Category.java
+C:\work\文章管理系统\src\main\java\com\example\article\repository\ArticleRepository.java
+C:\work\文章管理系统\src\main\java\com\example\article\dto\ApiResponse.java
+C:\work\文章管理系统\src\main\java\com\example\article\controller\ArticleController.java
+C:\work\文章管理系统\src\main\java\com\example\article\util\DatabaseInitializer.java
+C:\work\文章管理系统\src\main\java\com\example\article\controller\CategoryController.java
+C:\work\文章管理系统\src\main\java\com\example\article\service\impl\CategoryServiceImpl.java
+C:\work\文章管理系统\src\main\java\com\example\article\repository\CategoryRepository.java
+C:\work\文章管理系统\src\main\java\com\example\article\service\impl\ArticleServiceImpl.java
+C:\work\文章管理系统\src\main\java\com\example\article\exception\GlobalExceptionHandler.java
+C:\work\文章管理系统\src\main\java\com\example\article\dto\CategoryDTO.java
